@@ -234,4 +234,4 @@ fabric.properties
 .DS_Store
 
 # JSON
-.json
+*.json
